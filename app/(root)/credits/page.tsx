@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const CreditPage = () => {
+const CreditPage = () => {
   return (
     <div>page</div>
   )
